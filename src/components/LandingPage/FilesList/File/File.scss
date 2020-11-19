@@ -1,0 +1,33 @@
+.FileCard {
+  margin: 15px 0;
+  & .ant-card {
+    border-radius: 10px;
+  }
+}
+.FileCard-more-icon {
+  padding: 5px;
+  border-radius: 5px;
+  transition-duration: .05s;
+
+  &:hover{
+    transition-duration: 0;
+    background: rgb(240, 240, 240);
+  }
+}
+.FileDetailsDrawer-delete-icon {
+  padding: 5px;
+  border-radius: 5px;
+  transition-duration: .05s;
+
+  &:hover{
+    transition-duration: 0;
+    background: rgb(240, 240, 240);
+  }
+  
+  path {
+    color: red;
+  }
+}
+.FileDetailsDrawer-buttons-container {
+  margin-top: 15px;
+}
