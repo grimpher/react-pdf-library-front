@@ -1,5 +1,5 @@
 # PDF Reading Library (Front-end)
-[Go to API source for this project](https://github.com/komvrnicki/pdf-library-api)
+[Go to API source for this project](https://github.com/grimpher/react-pdf-library)
 
 This is Front-end client for PDF Reading App made with use of these technologies:
 - React.js
